@@ -1,7 +1,4 @@
 # Titanic Survival Prediction 🚢
-## Note from the Author ✍️
-Hi! I am currently pursuing my B.Tech at **NIT Rourkela** and I am in the middle of my **end-semester examinations** while working on this project. Despite the intense academic schedule, I have put sincere efforts into completing this assignment with clean code, structured documentation, and good practices.  
-Thank you for considering my work!
 
 ## Objective
 The objective of this project is to build a Machine Learning model that predicts whether a passenger survived the Titanic disaster based on various features such as age, gender, ticket class, fare, etc.
